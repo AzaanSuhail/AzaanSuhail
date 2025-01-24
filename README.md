@@ -1,5 +1,5 @@
 #  About Me:
-Hi! I'm Azaan Suhail, passionate about the MERN stack and DSA. I recently interned at GeeksforGeeks as a MERN Stack Developer and enjoy collaborating on challenging projects. Let’s create something awesome together!
+Hi! I'm Azaan Suhail, passionate about the MERN and MENN stack and DSA.I enjoy collaborating on challenging projects. Let’s create something awesome together!
 
 
 ## 🌐 Socials:
