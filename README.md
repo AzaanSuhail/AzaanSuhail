@@ -3,9 +3,8 @@ I'm Azaan Suhail, a final-year Computer Science undergraduate specializing in Fu
 I build scalable, real-world solutions using React.js, Next.js, Node.js, MongoDB, and Express.js.
 
 With over 1000+ DSA problems solved across platforms like LeetCode, CodeChef and GeeksforGeeks, I have a strong problem-solving mindset and ranked Top 3 at my institute.
-
-I’ve built impactful projects like Chat-Loop (real-time messaging app) and Commits Hub (repository management platform).
 I'm passionate about creating efficient software and exploring AI/ML technologies.
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=600&lines=Hello!+I'm+Azaan+Suhail;Passionate+Fullstack+Developer;%26+DSA+Enthusiast!" alt="Typing SVG"/>
@@ -14,7 +13,42 @@ I'm passionate about creating efficient software and exploring AI/ML technologie
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder at work GIF" width="300" />
 </div>
 
+```yaml
+Name: "Azaan Suhail"
+
+Education:
+  degree: "BTech in Computer Science"
+  university: "Rajkiya Engineering College, Mainpuri"
+  CGPA: "6.93/10"
+
+Past_Experiences:
+  - role: "Aspiring Software Developer | SDE Role"
+  - achievement: "Solved 1000+ DSA problems"
+    organization: "Multiple Platforms"
+  - achievement: "Rank 3 in Institute"
+    organization: "GeeksforGeeks"
+  - achievement: "Completed 75 Hard Coding Challenge"
+    organization: "LeetCode"
+  - achievement: "100+ Days POTD Streak"
+    organization: "LeetCode"
+
+Coding_achievements:
+  - "LeetCode Max Rating: 1412"
+  - "GeeksforGeeks Rank 3 in Institute"
+  - "1000+ DSA problems solved"
+
+Specialization: "MERN/MENN Stack Development & Data Structures"
+
+Currently_learning:
+  - "System Design"
+  - "Machine Learning"
+  - "Devops"
+
+```
+
+<br><br>
 <hr>
+<br><br>
 
 
 # 💻 Skills and Technologies
@@ -28,8 +62,11 @@ I'm passionate about creating efficient software and exploring AI/ML technologie
 | <h3>Tools & Platforms</h3>     | <img height="20" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/> <br><img height="28" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <br><img height="28" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <br><img height="28" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> | [████░░░░░░] 50% <br>[███████░░░] 75% <br>[██████░░░░] 65% <br>[██████░░░░] 65% |
 | <h3>Design Tools</h3>          | <img height="20" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>  | [████░░░░░░] 40% |
 
+ 
 
+<br><br>
 <hr>
+<br><br>
 
 ## Github stats:
 <div align="center">
@@ -50,7 +87,11 @@ I'm passionate about creating efficient software and exploring AI/ML technologie
     <img alt="AzaanSuhail's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AzaanSuhail&theme=react-dark" />
   </a>
 </div>
+
+
+<br><br>
 <hr>
+<br><br>
 
 ## 🌐 CONNECT WITH ME HERE:
 <p align="left">
@@ -72,7 +113,18 @@ I'm passionate about creating efficient software and exploring AI/ML technologie
 <br>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=AzaanSuhail&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br><br>
+<hr>
+<br><br>
+
+<div align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=500&size=30&pause=1000&color=F63024&background=6883FF00&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+!" alt="Typing SVG" />
+   </a>
+   
+   <h3>Show some ❤️ by starring some of the repositories!</h3>
+</div>
+
+
+
