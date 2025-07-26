@@ -1,8 +1,8 @@
 #  About Me:
-I'm Azaan Suhail, a final-year Computer Science undergraduate specializing in Full Stack Development (MERN & MENN).
+I'm Azaan Suhail, Computer Science graduate specializing in Full Stack Development (MERN & MENN).
 I build scalable, real-world solutions using React.js, Next.js, Node.js, MongoDB, and Express.js.
 
-With over 1000+ DSA problems solved across platforms like LeetCode, CodeChef and GeeksforGeeks, I have a strong problem-solving mindset and ranked Top 3 at my institute.
+With over 1050+ DSA problems solved across platforms like LeetCode, CodeChef and GeeksforGeeks, I have a strong problem-solving mindset and ranked Top 3 at my institute.
 I'm passionate about creating efficient software and exploring AI/ML technologies.
 
 <div align="center">
