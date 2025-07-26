@@ -19,7 +19,7 @@ Name: "Azaan Suhail"
 Education:
   degree: "BTech in Computer Science"
   university: "Rajkiya Engineering College, Mainpuri"
-  CGPA: "6.93/10"
+  CGPA: "7./10"
 
 Past_Experiences:
   - role: "Aspiring Software Developer | SDE Role"
