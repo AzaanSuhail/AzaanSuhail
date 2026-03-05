@@ -1,9 +1,6 @@
-#  About Me:
-I'm Azaan Suhail, Computer Science graduate specializing in Full Stack Development (MERN & MENN).
-I build scalable, real-world solutions using React.js, Next.js, Node.js, MongoDB, and Express.js.
-
-With over 1050+ DSA problems solved across platforms like LeetCode, CodeChef and GeeksforGeeks, I have a strong problem-solving mindset and ranked Top 3 at my institute.
-I'm passionate about creating efficient software and exploring AI/ML technologies.
+# 👨‍💻About Me:
+Hi, I'm Azaan Suhail, a Software Engineer specializing in Full Stack Development. I build scalable, secure, and real-world web applications with a strong focus on backend architecture, API design, and system performance.
+I have solved 1300+ Data Structures and Algorithms problems across multiple coding platforms, strengthening my problem-solving mindset and earning a Top 3 rank at my institute.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -19,11 +16,11 @@ Name: "Azaan Suhail"
 Education:
   degree: "BTech in Computer Science"
   university: "Rajkiya Engineering College, Mainpuri"
-  CGPA: "7./10"
+  CGPA: "7.1/10"
 
 Past_Experiences:
-  - role: "Aspiring Software Developer | SDE Role"
-  - achievement: "Solved 1000+ DSA problems"
+  - role: "SDE"
+  - achievement: "Solved 1300+ DSA problems"
     organization: "Multiple Platforms"
   - achievement: "Rank 3 in Institute"
     organization: "GeeksforGeeks"
@@ -35,14 +32,16 @@ Past_Experiences:
 Coding_achievements:
   - "LeetCode Max Rating: 1412"
   - "GeeksforGeeks Rank 3 in Institute"
-  - "1000+ DSA problems solved"
+  - "1300+ DSA problems solved"
 
-Specialization: "MERN/MENN Stack Development & Data Structures"
+Specialization: "Full Stack Development & Data Structures"
 
 Currently_learning:
+  - "Generative AI"
   - "System Design"
   - "Machine Learning"
   - "Devops"
+
 
 ```
 
